@@ -1,4 +1,4 @@
-# Churn Rate Calculation
+# Churn Rate & Retention Rate Calculation
 
 The Churn rate is the rate at which customers stop doing business with an entity. It gives you insight into how many customers you may be losing in a given time period. Knowing how to calculate churn rate enables you to understand the financial health of a business and implement changes to help it grow. The Retention rate which states that it is a metric that measures the number of users still using your product or service after a given period of time.
 
